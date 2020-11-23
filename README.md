@@ -1,1 +1,3 @@
-# Book-library
+cd into project
+npm install 
+npm start
